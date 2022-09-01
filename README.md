@@ -1,4 +1,6 @@
-# React todo 
+# React todo list 
+
+### Lista de tarefas utilizando a bliblioteca react 
 
 # Getting Started with Create React App
 
